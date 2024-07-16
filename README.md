@@ -1,5 +1,6 @@
 # BN-AuthProf
 Author Profiling on Bangla Social Media Texts. 
+___
 **BN-AuthProf** : Bangla Author Profiling Dataset
 Although research on author profiling has quite progressed in  abundant resources languages, it is still infancy for limited resources languages such as Bengali. This paper focuses on author profiling in the Bangla language, aiming to extract valuable insights about anonymous authors based on their writing style on social media. The primary objective is to introduce and benchmark the performance of machine learning approaches on a newly created Bangla Author Profiling dataset, BN-AuthProf. The dataset comprises 30,131 social media posts from 300 authors, labeled by their age and gender. Experimentation carried out using various machine learning (SVM, MNB, DT, LR, KNN), deep neural networks (LSTM, CNN, BiLSTM, CNN+BiLSTM) based approaches. Experimental outcomes indicate that MNB outdoes all other techniques for age and gender classification by achieving the highest weighted f1-score of 0.756 and 0.905 on the test data.
 ## How To Run The DEMO (Inferencing on Single Image):
