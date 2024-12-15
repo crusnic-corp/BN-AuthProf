@@ -10,3 +10,13 @@ Although research on author profiling has quite progressed in  abundant resource
 ## BN-AuthProf Dataset 
 + We used the BN-AuthProf_Dataset - for Training/Evaluating our models.
 + You can find the exact Splitted Dataset in our Exp_Dataset from BN-AuthProf_Dataset folder.
+
+ ## To Cite the **BN-DRISHTI** Paper:
+ ```ruby
+@article{tasnim2024bn,
+    title={BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts},
+    author={Tasnim, Raisa and Chowdhury, Mehanaz and Rahman, Md Ataur},
+    journal={arXiv preprint arXiv:2412.02058},
+    year={2024}
+}
+```
